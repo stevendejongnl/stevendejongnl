@@ -9,5 +9,6 @@
   <a href="https://www.madebysteven.nl">madebysteven.nl</a>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://www.madebysteven.nl/api/v1/wakapi/stats/image" alt="Weekly coding stats" />
+</p>
