@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.madebysteven.nl">madebysteven.nl</a>
+  <a href="https://www.madebysteven.nl">www.madebysteven.nl</a>
 </p>
 
 <p align="center">
